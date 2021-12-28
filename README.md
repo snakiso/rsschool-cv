@@ -1,1 +1,1 @@
-# rsschool-cv
+https://snakiso.github.io/rsschool-cv/cv
