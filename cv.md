@@ -1,6 +1,6 @@
 # Ivan Gorchagov
 ---
-## Contact
+### Contact
 ---
 * **Address:** _Belarus, Soligorsk_
 * **Email:** _[Mail](mailto:igorchagov@mail.ru)_
@@ -8,7 +8,7 @@
 * **Telegram:** _[snakiso](https://t.me/snakiso)_
 
 ---
-## About me
+### About me
 ---
 Hello. My name is **Ivan**. I am 24 years old. I work as a programmed machine operator.
 I love sudoku and puzzles.
