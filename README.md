@@ -1,1 +1,1 @@
-https://snakiso.github.io/rsschool-cv/cv
+[snakiso](https://snakiso.github.io/rsschool-cv/cv)
