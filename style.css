@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+}
+aside{
+    float: left;
+}
+.photo{
+      width: auto;
+      height: auto;
+}
+header {
+    background-color: rgba(189, 204, 54, 0.4);
+    height: 400px;
+}
+.name{
+    line-height: 50px;
+    margin-top: 120px;
+    text-align: center;
+    font-size: 58px;
+    color: rgb(189, 145, 63);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+main{
+    margin: 0px;
+    background-color: rgb(180, 138, 138);
+}
+div{
+    font-size: 25px;
+}
+.purple{
+    color:rgb(122, 46, 122)
+}
+.red{
+    color: rgb(177, 37, 13)
+}
