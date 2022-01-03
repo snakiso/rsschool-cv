@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="./style.css" rel='stylesheet'>
+</head>
+<body>
+    <header style='border: 2px solid rgb(214, 32, 32,0.4);'>
+        <aside>
+     <img class="photo" src='./3.png' alt='Photo'>
+        </aside>
+     <h1 class="name">Ivan <br> Gorchagov</h1>
+    </header>
+    <main>
+       <div class='contacts'>
+           <h2>Contacts</h2>
+          <ul>
+           <li>Address:<a href='https://www.google.by/maps/place/%D0%A1%D0%BE%D0%BB%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA/@52.7903032,27.5252741,14.25z/data=!4m5!3m4!1s0x46d8304d8e487623:0xdc7ee99102d56088!8m2!3d52.786267!4d27.5243197?hl=ru&authuser=0'>Belarus, Soligorsk</a></li>
+           <li>Email:<a href='mailto:igorchagov@mail.ru'>Mail</a></li>
+           <li>GitHub:<a href='https://github.com/snakiso'>snakiso</a></li>
+           <li>Telegram:<a href='https://t.me/snakiso'>snakiso</a></li>
+          </ul>
+       </div>
+       <div class='About'>
+           <h2>About me</h2>
+           <p>Hello. My name is <b>Ivan</b>. I am 24 years old. I work as a programmed machine operator.<br>
+            I love sudoku and puzzles.</p>
+       </div>
+       <div class='skills'>
+           <h2>Skills</h2>
+           <ul>
+               <li>html5(basic)</li>
+               <li>css(basic)</li>
+               <li>javascript(basic)</li>
+           </ul>
+       </div>
+       <div class='Example'>
+           <h2>Code Example</h2>
+           <p>You will be given an array and a limit value. 
+               You must check that all values in the<br> array are below or equal to the limit value. 
+               If they are, return true. Else, return false.<br> 
+               You can assume all values in the array are numbers.</p>
+           <pre>js
+            <span class='purple'>function</span> smallEnough(a, limit){
+             <span class='purple'>if</span> (Math.max.apply(0,a) > limit){
+               <span class='purple'>return</span> <span class='red'>false</span>
+             }<span class='purple'>else</span>{
+               <span class='purple'>return</span> <span class='red'>true</span>
+             };
+            };</pre>
+       </div>
+       <div class='Experience'>
+           <h2>Experience</h2>
+            <p>Sorry, but I haven't experience in this area.</p>
+       </div>
+       <div class='Education'>
+           <h2>Education</h2>
+           <a href='https://learn.javascript.ru/courses/jsbasic'>
+               javascript.ru(javascript/Dom/interfaces for begginers)</a>
+       </div>
+       <div class='Languages'>
+           <h2>Languages</h2>
+           <ul>
+               <li>English: It is very difficult to understand my level, but I am learning</li>
+               <li>Russian: native language</li>
+           </ul>
+       </div>
+    </main>
+    <footer>
+     <div class='footer'>
+     <span class='by'>© 2021 by  <a href="https://github.com/snakiso">snakiso</a></span>  
+     <span class='rss'><a href='https://rs.school/js/' ><img src='https://cv-hints.netlify.app/assets/svg/rss.svg' alt='rss' class='rss'></a></span>
+     </div>
+    </footer>
+</body>
+</html>
